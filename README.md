@@ -25,7 +25,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-
+```
 <html>
 <head>
 <title>slot timetable</title
@@ -84,7 +84,7 @@
 </table>
 </body>
 </html>
-
+```
 
 # OUTPUT
 ![1234](https://user-images.githubusercontent.com/128288529/233394216-fcda4e00-f9d8-44bc-8e0d-1d2c514f6ce8.png)
