@@ -25,10 +25,10 @@
   Open the file in a browser and verify the output.
   
 ## CODE
-```
+
 <html>
 <head>
-<title>slot timetable</title>
+<title>slot timetable</title
 </head>
 <body>
 <img src="![WEB_LOGO-01](https://user-images.githubusercontent.com/128288529/233392045-b98db461-945d-446c-920b-ffd7b6b8abf9.png)
@@ -84,7 +84,6 @@
 </table>
 </body>
 </html>
-```
 
 
 # OUTPUT
