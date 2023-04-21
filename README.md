@@ -31,8 +31,8 @@
 <title>slot timetable</title
 </head>
 <body>
-<img src="![WEB_LOGO-01](https://user-images.githubusercontent.com/128288529/233392045-b98db461-945d-446c-920b-ffd7b6b8abf9.png)
-"width="1000" height="150" align="center">
+<img src="sec logo.png"  align="center">
+
 <h1 style="text-align:center">
          SLOT TIME TABLE
          NarendarN. (212222250016)</h1>
@@ -85,9 +85,8 @@
 </body>
 </html>
 ```
-
 # OUTPUT
-![1234](https://user-images.githubusercontent.com/128288529/233394216-fcda4e00-f9d8-44bc-8e0d-1d2c514f6ce8.png)
+![2023-04-21](https://user-images.githubusercontent.com/128288529/233590194-155b09ee-e5f5-4946-b5b0-99cef8829f09.png)
 
 ## RESULT
  Slot time table is created successfully.
