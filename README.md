@@ -86,8 +86,7 @@
 </html>
 ```
 # OUTPUT
-![ex 03](https://user-images.githubusercontent.com/128288529/233590641-30a00c92-899b-430a-849e-86599aa24603.png)
-
+![ex 03](https://user-images.githubusercontent.com/128288529/233590907-6321e3da-dd5d-4d03-a48b-fd675e50299c.png)
 
 ## RESULT
  Slot time table is created successfully.
